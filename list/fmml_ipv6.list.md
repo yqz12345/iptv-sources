@@ -166,4 +166,4 @@
 | 160 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 161 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Tue Jan 21 2025 08:14:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 21 2025 10:11:20 GMT+0000 (Coordinated Universal Time)**
