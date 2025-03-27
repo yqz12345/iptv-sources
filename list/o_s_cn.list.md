@@ -522,4 +522,4 @@
 | 516 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 517 | Xizang TV Chinese | php.jdshipin.com | <http://php.jdshipin.com/xztv.php?id=ws> |
 
-Updated at **Wed Mar 26 2025 22:10:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 27 2025 00:55:01 GMT+0000 (Coordinated Universal Time)**
